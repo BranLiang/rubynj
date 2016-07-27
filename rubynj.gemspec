@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["lby89757@hotmail.com"]
 
   spec.summary       = %q{List Ruby fans in Nanjing, China.}
-  spec.homepage      = "liangboyuan.pub"
+  spec.homepage      = "http://www.liangboyuan.pub"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
